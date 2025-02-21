@@ -1,0 +1,33 @@
+html{
+    color:#FDFDFD;
+    font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+body{
+    margin:0;
+    padding: 0;
+}
+#homepage{
+    background: linear-gradient(
+        to bottom, #1d1c25, #942c88);
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    align-content: center;
+    text-align: center;
+}
+
+h1{
+    margin:0;
+    padding: 0;
+    font-weight: 100;
+    /* font-size: medium; */
+}
+
+a{
+    text-decoration: none;
+    color: #fdfdfd61;
+}
+
+a:hover{
+    color: #FDFDFD;    
+}
